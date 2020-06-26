@@ -1,0 +1,6 @@
+# 注释使用#开头
+# 相对.gitignore文件    /文件夹名/文件名
+/node_modules
+/.vscode
+
+/test.js
