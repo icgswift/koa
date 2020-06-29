@@ -4,4 +4,4 @@
 
 3.  bodyparser  解析请求体
 
-4.  路由模块化
+4.  路由模块化   path设为exports对象的属性名
